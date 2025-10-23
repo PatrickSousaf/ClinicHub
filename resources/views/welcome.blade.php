@@ -30,7 +30,6 @@
                         >
                             Dashboard
 
-                            ola mundo
                         </a>
                     @else
                         <a
